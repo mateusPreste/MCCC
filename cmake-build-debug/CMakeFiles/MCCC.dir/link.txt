@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/MCCC.dir/main.cpp.o CMakeFiles/MCCC.dir/MergeSort.cpp.o CMakeFiles/MCCC.dir/QuickSort.cpp.o  -o MCCC.exe -Wl,--out-implib,libMCCC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

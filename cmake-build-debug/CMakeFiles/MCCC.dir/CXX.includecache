@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/MergeSort.cpp
+MergeSort.h
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/MergeSort.h
+cstdlib
+-
+
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/MergeSort.h
+stdio.h
+-
+
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/QuickSort.cpp
+QuickSort.h
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/QuickSort.h
+
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/QuickSort.h
+
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+MergeSort.h
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/MergeSort.h
+QuickSort.h
+/cygdrive/c/Users/mateu/CLionProjects/MCCC/QuickSort.h
+
